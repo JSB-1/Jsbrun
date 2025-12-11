@@ -1,2 +1,2 @@
-# Jsbrun
+# Jsbrun.io
 러닝 입문자를 위한 정보 웹페이지
